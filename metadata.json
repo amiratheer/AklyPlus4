@@ -1,0 +1,15 @@
+
+{
+  "name": "أكلي بلس - تطبيق إدارة المطاعم والتوصيل",
+  "description": "نظام متكامل يربط الزبائن بالمطاعم وسائقي التوصيل مع لوحة تحكم إدارية متطورة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#ea580c",
+  "background_color": "#f8fafc"
+}

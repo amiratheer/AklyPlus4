@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.aklyplus.app",
+  "appName": "AklyPlus",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
